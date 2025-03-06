@@ -1,0 +1,46 @@
+html {
+  background-color: lightgrey;
+  font-family: "Sans-Serif Fonts", Helvetica, sans-serif;
+  font-size: 1.6em;
+  color: black;
+}
+
+h1 {
+  padding: 2rem;
+  margin: 1rem;
+}
+h2:first-letter {
+  display: block;
+  float: left;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+  font-size: 2rem;
+}
+div {
+  text-align: center;
+}
+
+h2 {
+  color: gray;
+  font-size: 15px;
+}
+
+.content {
+  background: rgb(47, 134, 255);
+  height: 4rem;
+  width: 50%;
+  font-size: 15px;
+  text-align: left;
+  color: whitesmoke;
+  word-wrap: break-word;
+  padding: 15px;
+  font-weight: 117;
+  display: lightgreen;
+  float: middle;
+  margin: 0 5px 5px 0;
+}
